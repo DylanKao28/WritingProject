@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\twoos\source\repos\rip project\writing project\source.cpp(12): warning C4101: 'replay': unreferenced local variable
+c:\users\twoos\source\repos\rip project\writing project\source.cpp(9): warning C4101: 'y': unreferenced local variable
+c:\users\twoos\source\repos\rip project\writing project\source.cpp(10): warning C4101: 'i': unreferenced local variable
+c:\users\twoos\source\repos\rip project\writing project\source.cpp(9): warning C4101: 'c': unreferenced local variable
+c:\users\twoos\source\repos\rip project\writing project\source.cpp(1054): warning C4101: 'name': unreferenced local variable
+c:\users\twoos\source\repos\rip project\writing project\source.cpp(1055): warning C4101: 'y': unreferenced local variable
+c:\users\twoos\source\repos\rip project\writing project\source.cpp(1055): warning C4101: 'j': unreferenced local variable
+c:\users\twoos\source\repos\rip project\writing project\source.cpp(1055): warning C4101: 'c': unreferenced local variable
+  Writing Project.vcxproj -> C:\Users\twoos\source\repos\Rip Project\Debug\Writing Project.exe
